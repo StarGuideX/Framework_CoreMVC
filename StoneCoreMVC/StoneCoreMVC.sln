@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneCoreMVC", "StoneCoreMVC\StoneCoreMVC.csproj", "{E0F94AFE-A465-4345-9D52-35039560080A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoneCoreMVC", "StoneCoreMVC\StoneCoreMVC.csproj", "{E0F94AFE-A465-4345-9D52-35039560080A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseCoreMVC", "BaseCoreMVC\BaseCoreMVC.csproj", "{646EC191-063F-42AE-B75D-0876CD45EB34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseCoreMVC", "BaseCoreMVC\BaseCoreMVC.csproj", "{646EC191-063F-42AE-B75D-0876CD45EB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Models", "MVC.Models\MVC.Models.csproj", "{442485DD-E60A-4C93-A2C0-CD9CD2DFE8C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{646EC191-063F-42AE-B75D-0876CD45EB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646EC191-063F-42AE-B75D-0876CD45EB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646EC191-063F-42AE-B75D-0876CD45EB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442485DD-E60A-4C93-A2C0-CD9CD2DFE8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442485DD-E60A-4C93-A2C0-CD9CD2DFE8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442485DD-E60A-4C93-A2C0-CD9CD2DFE8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442485DD-E60A-4C93-A2C0-CD9CD2DFE8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
